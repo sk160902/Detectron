@@ -4,6 +4,6 @@
 
 #Steps to install Detectron in a Virtual Environment in Linux:
 
-"git clone https://github.com/facebookresearch/detectron2.git
+git clone https://github.com/facebookresearch/detectron2.git
 
-python -m pip install -e detectron2"
+python -m pip install -e detectron2
