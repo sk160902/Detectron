@@ -3,9 +3,9 @@
 Detectron is built on the pytorch framework, so it is a requirement to have Pytorch corresponding to the CUDA version.
 
 # Steps to install Detectron in a Virtual Environment in Linux:
-python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
-
 The following commands is to be run on the terminal where the virtual Environment is activated.
+
+python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
 
 git clone https://github.com/facebookresearch/detectron2.git
 
